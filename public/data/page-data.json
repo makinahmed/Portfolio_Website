@@ -1,0 +1,117 @@
+{
+	"contactBar": {
+		"contactItems": [
+			{
+				"type": "email",
+				"label": "ahmedmakin555@gmail.com",
+				"icon": "/images/icon/mail-icon.svg",
+				"link": "mailto:ahmedmakin555@gmail.com"
+			},
+			{
+				"type": "phone",
+				"label": "+8801720-285875",
+				"icon": "/images/icon/call-icon.svg",
+				"link": "tel:+8801720-285875"
+			},
+			{
+				"type": "website",
+				"label": "www.makinahmed.com",
+				"icon": "/images/icon/web-icon.svg",
+				"link": "https://www.makinahmed.com"
+			}
+		],
+		"socialItems": [
+			{
+				"platform": "linkedin",
+				"icon": "/images/icon/linkedin-icon.svg",
+				"link": "https://www.linkedin.com/in/makinahmed/"
+			},
+			{
+				"platform": "facebook",
+				"icon": "/images/icon/facebook-icon.svg",
+				"link": "https://www.facebook.com/whoismakin"
+			},
+			{
+				"platform": "Github",
+				"icon": "/images/icon/github.svg",
+				"link": "https://github.com/makinahmed"
+			}
+		]
+	},
+	"educationData": {
+		"education": [
+			{
+				"title": "Bachelor’s Degree (Graduation) - 2022",
+				"description": "BSC in Computer Science and Engineering (CSE), Prime University, Bangladesh."
+			},
+			{
+				"title": "Higher Secondary Certificate (HSC)- 2017",
+				"description": "Collectorate School & College, Rangpur, Bangladesh."
+			},
+			{
+				"title": "Secondary School Certificate (SSC) - 2015",
+				"description": "Jaldhaka Pilot High School, Jaldhaka, Nilphamari, Bangladesh."
+			}
+		],
+		"skills": [
+			{
+				"name": "NodeJs",
+				"icon": "/images/home/education-skill/nodejs.png",
+				"rating": 5
+			},
+			{
+				"name": "Laravel",
+				"icon": "/images/home/education-skill/laravel.png",
+				"rating": 5
+			},
+			{
+				"name": "ReactJs",
+				"icon": "/images/home/education-skill/react.png",
+				"rating": 4
+			},
+			{
+				"name": "PHP",
+				"icon": "/images/home/education-skill/php.png",
+				"rating": 4
+			},
+			{
+				"name": "NextJs",
+				"icon": "/images/home/education-skill/nextjs.webp",
+				"rating": 5
+			},
+			{
+				"name": "MySql",
+				"icon": "/images/home/education-skill/mysql.png",
+				"rating": 3
+			}
+		]
+	},
+	"contactLinks": {
+		"socialLinks": [
+			{
+				"title": "Github",
+				"href": "https://github.com/makinahmed"
+			},
+			{
+				"title": "Facebook",
+				"href": "https://www.facebook.com/whoismakin"
+			},
+			{
+				"title": "LinkedIn",
+				"href": "https://www.linkedin.com/in/makinahmed/"
+			}
+		],
+		"contactInfo": [
+			{
+				"type": "email",
+				"label": "ahmedmakin555@gmail.com",
+				"link": "ahmedmakin555@gmail.com"
+			},
+			{
+				"type": "phone",
+				"label": "+8801720-285875",
+				"link": "tel:+8801720-285875"
+			}
+		]
+	}
+}

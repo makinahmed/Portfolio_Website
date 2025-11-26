@@ -1,0 +1,40 @@
+{
+  "workData": [
+    {
+      "image": "/images/work/doctor.jpg",
+      "title": "Medical Appointment & Chamber Management System",
+      "client": "Dr Nashir Uddin",
+      "slug": "https://drnashir.webaidsolution.com/"
+    },
+    {
+      "image": "/images/work/donation.jpg",
+      "title": "Charity Fundraising Assistance Platform",
+      "client": "SCSD Bangladesh",
+      "slug": "https://abilityfordisabilityfund.com/"
+    },
+    {
+      "image": "/images/work/news.jpg",
+      "title": "News & Tv Streaming Platform",
+      "client": "Jakat Foundation",
+      "slug": "https://zakat.tv/"
+    },
+    {
+      "image": "/images/work/research.jpg",
+      "title": "Research Paper Publication Platform",
+      "client": "University Of Asia Pacific",
+      "slug": "http://jlp.uap-bd.edu"
+    },
+    {
+      "image": "/images/work/zakat.jpg",
+      "title": "Walefare, Donation & Charity Management System",
+      "client": "Zakat Foundation",
+      "slug": "https://test.zakatwelfarefoundation.com/"
+    },
+    {
+      "image": "/images/work/tour.jpg",
+      "title": "Asian Tourism Fair Management System",
+      "client": "Bangladesh Tourism Board",
+      "slug": "https://www.asiantourismfair.com"
+    }
+  ]
+}
