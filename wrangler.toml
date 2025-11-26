@@ -1,0 +1,7 @@
+name = "makin"
+compatibility_date = "2025-11-26"
+
+[site]
+bucket = "./build"      
+# bucket = "./out"      
+entry-point = "workers-site"
